@@ -1,0 +1,32 @@
+﻿生成启动时间为 2015/4/24 15:41:11。
+     1>项目“E:\杂-资料\Documents\GitHub\MyEasyPR\EasyPR.vcxproj”在节点 2 上(Build 个目标)。
+       项目文件包含 ToolsVersion="12.0" 设置，但此工具集未知或缺失。您可以通过为此工具集安装相应的 .NET Framework 来解决此问题。将项目视为具有 ToolsVersion="4.0" 设置。
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\杂-资料\Documents\GitHub\MyEasyPR\Debug\EasyPR.exe" /INCREMENTAL /NOLOGO opencv_ml248d.lib opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_nonfree248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_videostab248d.lib opencv_objdetect248.lib opencv_ts248.lib opencv_video248.lib opencv_nonfree248.lib opencv_ocl248.lib opencv_photo248.lib opencv_stitching248.lib opencv_superres248.lib opencv_videostab248.lib opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\杂-资料\Documents\GitHub\MyEasyPR\Debug\EasyPR.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\杂-资料\Documents\GitHub\MyEasyPR\Debug\EasyPR.lib" /MACHINE:X86 Debug\chars_identify.obj
+         Debug\chars_recognise.obj
+         Debug\chars_segment.obj
+         Debug\feature.obj
+         Debug\plate.obj
+         Debug\core_func.obj
+         Debug\accuracy_test.obj
+         Debug\ann_train.obj
+         Debug\svm_train.obj
+         Debug\CParser.obj
+         Debug\deface.obj
+         Debug\general_test_prepare.obj
+         Debug\generate_gdts.obj
+         Debug\mc_data_prepare.obj
+         Debug\main.obj
+         Debug\test.obj
+         Debug\plate_detect.obj
+         Debug\plate_judge.obj
+         Debug\plate_locate.obj
+         Debug\plate_recognize.obj
+         Debug\learn_prepare.obj
+         Debug\util.obj
+         EasyPR.vcxproj -> E:\杂-资料\Documents\GitHub\MyEasyPR\Debug\EasyPR.exe
+     1>已完成生成项目“E:\杂-资料\Documents\GitHub\MyEasyPR\EasyPR.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.46

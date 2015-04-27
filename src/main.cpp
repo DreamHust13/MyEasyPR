@@ -39,7 +39,7 @@ const int optionCount = 8;
 int main(int argc, char *argv[])
 {
     if (argc > 1) {
-        //enable command line option
+        //enable command line option使用命令行参数
         cmdMain(argc, argv);
         return 0;
     }
