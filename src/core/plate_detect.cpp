@@ -84,6 +84,7 @@ int CPlateDetect::plateDetectDeep(Mat src, vector<Mat>& resultVec, bool showDete
 		RotatedRect minRect = plate.getPlatePos();
 		Point2f rect_points[4];
 		minRect.points(rect_points);
+		//»­³ö³µÅÆÇøÓò
 		for (int j = 0; j < 4; j++)
 			line(result, rect_points[j], rect_points[(j + 1) % 4], Scalar(0, 255, 255), 2, 8);
 

@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EasyPR", "EasyPR.vcxproj", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyOpenCVStudy", "..\MyOpenCV\MyOpenCVStudy\MyOpenCVStudy\MyOpenCVStudy.vcxproj", "{846C81ED-7E3C-430A-A11B-8F778B173168}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyEasyPR", "..\MyOpenCV\MyEasyPR\MyEasyPR\MyEasyPR.vcxproj", "{A2585E99-E182-4BA5-9CF5-F25F14ABB6C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{846C81ED-7E3C-430A-A11B-8F778B173168}.Debug|Win32.Build.0 = Debug|Win32
 		{846C81ED-7E3C-430A-A11B-8F778B173168}.Release|Win32.ActiveCfg = Release|Win32
 		{846C81ED-7E3C-430A-A11B-8F778B173168}.Release|Win32.Build.0 = Release|Win32
+		{A2585E99-E182-4BA5-9CF5-F25F14ABB6C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2585E99-E182-4BA5-9CF5-F25F14ABB6C7}.Debug|Win32.Build.0 = Debug|Win32
+		{A2585E99-E182-4BA5-9CF5-F25F14ABB6C7}.Release|Win32.ActiveCfg = Release|Win32
+		{A2585E99-E182-4BA5-9CF5-F25F14ABB6C7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
